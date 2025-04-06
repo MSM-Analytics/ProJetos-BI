@@ -1,4 +1,5 @@
 # Dados
+!data/raw/data/raw/*.csv
 data/*.csv
 data/**/*.csv
 data/**/*.xlsx
