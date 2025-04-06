@@ -1,7 +1,6 @@
 # Dados
-!data/raw/data/raw/*.csv
-data/*.csv
-data/**/*.csv
+!data/raw/data/raw*.csv
+!data/raw/data/raw/**/*.csv
 data/**/*.xlsx
 data/**/*.json
 
