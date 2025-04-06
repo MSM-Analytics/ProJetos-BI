@@ -1,0 +1,13 @@
+# Dados
+data/*.csv
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.json
+
+# Ambientes
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
